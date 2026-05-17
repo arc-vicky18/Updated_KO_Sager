@@ -1,23 +1,9 @@
-# Python
-backend/.venv/
-backend/__pycache__/
-*.pyc
-
-# Node
 node_modules/
-
-# Environment
+dist/
+.venv/
+__pycache__/
+*.pyc
 .env
-
-# Database
-*.db
-
-# VS Code
+backend/.env
+knowbot.db
 .vscode/
-
-# Logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
